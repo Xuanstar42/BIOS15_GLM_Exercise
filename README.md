@@ -59,6 +59,7 @@ Variables include:
 - Analysis script (formatted R script)  
 - `GLM_Plot1.png` — environmental marginal effects  
 - `GLM_Plot2.png` — land-use marginal effects  
+- `GLM_Plot3.png` — diagonostic plots 
 
 ## Required R Packages
 
